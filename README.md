@@ -1,4 +1,6 @@
 # -
+score 0.16701
+
 入门pytorch后用于练手的项目，数据来自kaggle竞赛中的House Prices.
 
 目录：
